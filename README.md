@@ -1,1 +1,9 @@
-# dongfengweixiao-RimeConfig_DeeHY
+# 项目说明
+
+此项目为本人自用 Rime 配置。
+
+本人需求如下：
+
+- 简体字
+- 拼音（全拼）
+- 模糊音
