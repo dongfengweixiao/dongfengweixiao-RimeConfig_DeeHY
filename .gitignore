@@ -1,3 +1,9 @@
 # 文件夹
 build
 luna_pinyin.userdb
+sync/
+# 文件
+installation.yaml
+user.yaml
+.place_holder
+
